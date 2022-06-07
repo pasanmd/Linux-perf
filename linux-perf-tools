@@ -8,3 +8,4 @@ unix system calls 1: https://www.youtube.com/watch?v=xHu7qI1gDPA
 unix system calls 2: https://www.youtube.com/watch?v=2DrjQBL5FMU
 Mentorship Session: Stress-ng: How to Stress Test Your Computer (and Possibly Break It): https://youtu.be/gD3Hn02VSHA?list=RDCMUCfX55Sx5hEFjoC3cNs6mCUQ: 
 brendon gregg blog: https://brendangregg.com/blog/
+steal time: https://blog.leaseweb.com/2020/09/24/understanding-and-interpreting-cpu-steal-time-on-virtual-machines/#:~:text=Steal%20time%20is%20the%20percentage,is%20labeled%20as%20'st'.
